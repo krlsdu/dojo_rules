@@ -1,0 +1,4 @@
+== Deadly Skills
+
+* Ruby
+* Rails
