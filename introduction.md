@@ -1,4 +1,5 @@
-I am the new student
-update line
-Ruby
-
+Deadly Skill
+===
+* Ruby
+* Rails
+* Git
